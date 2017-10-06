@@ -70,5 +70,6 @@ theme: next
 deploy:
   type: git
   repo: 
-    github: git@github.com:zjcwill/zjcwill.github.io.git
+    github: git@github.com:zjcwill/zjcwill.github.io.git,
+    codding: git@git.coding.net:zjcwill/zjcwill.git
   brach: master
