@@ -1,7 +1,7 @@
 ---
 title: 2017年6月css和less学习总结
 date: 2017-06-28 20:30:21
-tags: 前端 less css
+tags: [前端,less,css]
 ---
 近期实习关于样式调优的小记
 <!--more-->

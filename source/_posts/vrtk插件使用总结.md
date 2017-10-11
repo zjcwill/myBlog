@@ -1,7 +1,7 @@
 layout: unity
 title: vrtk插件使用总结
 date: 2017-04-20 8:26:42
-tags: unity vrtk
+tags: [unity,vrtk]
 ---
 在哈航科技项目中使用VRTK的心得和难点
 <!--more-->

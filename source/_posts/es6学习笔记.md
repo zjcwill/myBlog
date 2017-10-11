@@ -1,7 +1,7 @@
 ---
 title: es6学习笔记
 date: 2017-05-20 16:18:19
-tags: es6 js
+tags: [es6,js]
 ---
 最近一些学习es6的心得
 <!--more-->
