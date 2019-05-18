@@ -7,7 +7,7 @@ title: 超神菌BLOG
 subtitle:
 description: 十年饮冰，难凉热血。
 author: 超神菌
-language: zh-Hans
+language: zh-CN
 timezone:
 
 # URL
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: next-reloaded
 
 # 本地搜索
 search:
