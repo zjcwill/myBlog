@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next-reloaded
+theme: next
 
 # 本地搜索
 search:
@@ -76,7 +76,7 @@ search:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: 
+  repo:
     github: git@github.com:zjcwill/zjcwill.github.io.git,
     # coding: git@git.coding.net:zjcwill/zjcwill.git
   brach: master
